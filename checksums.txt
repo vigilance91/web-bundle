@@ -1,0 +1,15 @@
+---~~--~-~-~~~-~--~~~-~~-~~~~~~~---~~--~-~-~~~-~--~~~-~~-~~~~~~~  
+@author Tyler R. Drury  
+@date 14-10-2020  
+@copyright Tyler R. Drury (vigilance.eth), All Rights Reserved  
+@created 2021-09-30 @ 18:43:20.12  
+@brief automated library checksums  
+---~  
+SHA256(bundle.js)= 98361125a0f6b66692d3c4204a8cd85c044fd68df434f402922b3153eb6a4d1f
+SHA512(bundle.js)= 828f859820d1dfc1ea8347ede12dff13a4f65c149461554fff5aa0d32739efa1e125d66d246c4d4f87cdb737229864135d4ab13777a8a25819c1dbdb97fef7b9
+SHA256(bundle.css)= 5db0deebde2f1dfa7f3906cf9dff0ab699cb500e2dc280f2e292fac8ca04778a
+SHA512(bundle.css)= 94a56462b68c3976227c251e1dae68308eb700426c061cc129e5f70e8fdfad08b493460c3b40fbce9de70df5007910a66921ef3845256aeb29fdd95893ee6deb
+SHA256(bundle-test.js)= e886a9c44121805460df648b004e16184ab4ba26f689e918e846bf6ce0590fea
+SHA512(bundle-test.js)= 160d8abd3bfb61165ebf40aabab223bcbff30d4c05e4851cde929355710ed1265f03a97a9bb2712e7fd4d2e36a39b323545acf28f0bbf2f583c8bb5444a116be
+SHA256(bundle-test.css)= ac6613bee2f84694cd2519040a45c46be4d7f9fcb9ace809e44cb934b489ca64
+SHA512(bundle-test.css)= b3abeb3c88cb07a1991ade4bbcd8f4e76d0b0623bd479b4fa3beab9b0af8a0020c40dd85786d78bbd7a243e6cf14d1c4334194bb960ef6dedcf2452f926ed880
