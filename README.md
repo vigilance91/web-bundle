@@ -22,7 +22,7 @@ The **original licenses** of all composite libraries are preserved, as is, in th
 This project is provided for free, on an **AS IS BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND**, either express or implied.
 
 
-If you or your organization own the rights to any of the third party libraries used in this project or have concerns regarding their use,
+If you or your organization own the rights to any of the third-party libraries used in this project or have concerns regarding their use,
 please [contact me](https://vigilance91.github.io/contact.html).
 
 
@@ -38,7 +38,7 @@ more libraries will be added.
 
 ## Before Starting
 
-**Be aware** this project is currently in development and intended for use in a browser that is compabile with the Javascript ES5.
+**Be aware** this project is currently in development and intended for use in a browser that is compatible with at least Javascript ES5.
 It does not support ES6 module syntax nor is it currently designed for use in a nodeJS environment.
 
 This project has the following directory structure
@@ -49,7 +49,7 @@ This project has the following directory structure
 * **README.md** - project readme file
 * **AUTHORS.md** - authors and other contributors to this project
 * **checksums.txt** - a text file containing the SHA256 and SHA512 checksums of the bundled files
-* **.gitignore** - file specifying which files and directory patterns not to include when pushing commits t github repo
+* **.gitignore** - file specifying which files and directory patterns not to include when pushing commits
 
 
 ----------------------------------------------------------------
@@ -74,7 +74,7 @@ Once cloned to a local machine, link the javascript and css files in the **head*
 </head>
 ```
 
-Ensure to link to the fiels suffixed with **-test** for unit testing, during development.
+Ensure to link to the fields suffixed with **-test** for unit testing, during development.
 
 ```
 <head>
@@ -106,4 +106,4 @@ All respective authors and contributors are attributed in [AUTHORS][3].
 
 [1]: https://github.com/vigilance91/web-bundle
 [2]: https://github.com/vigilance91/web-bundle/LICENSE.md
-[3]: https://github.com/vigilance91/solidarity/AUTHORS.md
+[3]: https://github.com/vigilance91/web-bundle/AUTHORS.md
