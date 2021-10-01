@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
 
-# Copyright © 01-10-2021 Tyler R. Drury (vigilance.eth), All Rights Reserved.
+# Copyright © 01-10-2021 [Tyler R. Drury](https://vigilance91.github.io/) (vigilance.eth), All Rights Reserved.
 
 ----------------------------------------------------------------
 
@@ -52,7 +52,7 @@ This project has the following directory structure
 
 ----------------------------------------------------------------
 
-## Getting the Official Project
+## Get the Project
 
 The most recent, stable release of this project may be cloned or forked from the official [GitHub repo][1].
 
@@ -63,17 +63,16 @@ The most recent, stable release of this project may be cloned or forked from the
 
 [web-bundle][1]™ is released under the Apache-2.0 License.
 
-See the [LICENSE][3] file for more details.
+See the [LICENSE][2] file for more details.
 
 
 ----------------------------------------------------------------
 
 ## Authors
 
-All Authors and contributors are attributed in [AUTHORS][4].
+All respective authors and contributors are attributed in [AUTHORS][3].
 
 
 [1]: https://github.com/vigilance91/web-bundle
-[2]: https://github.com/vigilance91
-[3]: https://github.com/vigilance91/web-bundle/LICENSE.md
-[4]: https://github.com/vigilance91/solidarity/AUTHORS.md
+[2]: https://github.com/vigilance91/web-bundle/LICENSE.md
+[3]: https://github.com/vigilance91/solidarity/AUTHORS.md
