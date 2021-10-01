@@ -19,14 +19,16 @@ while **./javascript/bundle-test.js** and **./css/bundle-test.css** contain code
 
 The **original licenses** of all composite libraries are preserved, as is, in the bundled files.
 
-This project is provided on an **AS IS BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND**, either express or implied.
+This project is provided for free, on an **AS IS BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND**, either express or implied.
 
 
 If you or your organization own the rights to any of the third party libraries used in this project or have concerns regarding their use,
 please [contact me](https://vigilance91.github.io/contact.html).
 
 
-### /Future Developments/
+----------------------------------------------------------------
+
+### Future Developments
 
 As this project expands and other new projects come into use,
 more libraries will be added.
@@ -55,6 +57,35 @@ This project has the following directory structure
 ## Get the Project
 
 The most recent, stable release of this project may be cloned or forked from the official [GitHub repo][1].
+
+Start by cloning the web-bundle repo (either using the command line, github desktop or the github website)
+into the root directory which contains or will contain a web project.
+
+Once cloned to a local machine, link the javascript and css files in the **head** element of an html document, like normal.
+
+```
+<head>
+    <link rel='stylesheet'
+        type='text/css'
+        href="/web-bundle/css/bundle.css">
+    
+    <script type='application/javascript'
+        src="/web-bundle/javascript/bundle.js"></script>
+</head>
+```
+
+Ensure to link to the fiels suffixed with **-test** for unit testing, during development.
+
+```
+<head>
+    <link rel='stylesheet'
+        type='text/css'
+        href="/web-bundle/css/bundle-test.css">
+    
+    <script type='application/javascript'
+        src="/web-bundle/javascript/bundle-test.js"></script>
+</head>
+```
 
 
 ----------------------------------------------------------------
