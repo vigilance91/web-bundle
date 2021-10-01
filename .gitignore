@@ -1,0 +1,12 @@
+.git
+.DS_Store
+Thumbs.db
+npm-debug.log
+Doxyfile
+/bower_components
+/node_modules
+/_tests
+/_output
+/_input
+hash.bat
+SETUP.md
