@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
 
-# Copyright © 01-10-2021 [Tyler R. Drury](https://vigilance91.github.io/) (vigilance.eth), All Rights Reserved.
+# Copyright © 01-10-2021 [Tyler R. Drury](https://vigilance91.github.io/) [vigilance.eth](https://etherscan.io/address/0x20fc7e34f4acfa8faec8edf0546c57cd77d76bfe)™, All Rights Reserved.
 
 ----------------------------------------------------------------
 

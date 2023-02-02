@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
 
-# Copyright © 2016 [Tyler R. Drury](https://vigilance91.github.io/) (vigilance.eth), All Rights Reserved.
+# Copyright © 2016 [Tyler R. Drury](https://vigilance91.github.io/) [vigilance.eth](https://etherscan.io/address/0x20fc7e34f4acfa8faec8edf0546c57cd77d76bfe)™, All Rights Reserved.
     
 ----------------------------------------------------------------
 
@@ -42,9 +42,9 @@ must acknowledge the original author of the **Product** and all contributors.
 
 ----------------------------------------------------------------
 
-## Additional Coverage
+## Primary Coverage
 
-The **Product** is additionally licensed under the Apache License, Version 2.0 (the **Apache License**),
+The **Product** is licensed under the Apache License, Version 2.0 (the **Apache License**),
 and may not be used, except in compliance with the **Apache License**.
 
 A full copy of the **Apache License** can be obtained [here](http://www.apache.org/licenses/LICENSE-2.0).
